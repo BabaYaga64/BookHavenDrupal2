@@ -1,4 +1,31 @@
 
+#Book Haven Drupal Website 
+
+##Bojana Skarich
+
+###May 15th, 2015
+
+###Description
+
+This is a bookstore website for a fictional bookstore named Bookhaven. Users can contact the bookstore, view book reviews, and those users that have logged in can take advantage of special discounts. This website illustrates my understanding of creating custom content types and views for them in Drupal. It also shows my ability to save these content types as features and export them easily to other Drupal websites. 
+
+###Attn: Diane
+
+Info for Diane:
+
+db name: bookhaven
+username: bookworm
+password: peachpie
+
+Site maintenance account info is same as above.
+
+###License
+
+MIT License
+
+Some images used in this website may be subject to individual copyright.
+
+
 CONTENTS OF THIS FILE
 ---------------------
 
