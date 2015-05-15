@@ -21,7 +21,7 @@ Site maintenance account info is same as above.
 
 ###License
 
-MIT License
+Software is under MIT License
 
 Some images used in this website may be subject to individual copyright.
 
