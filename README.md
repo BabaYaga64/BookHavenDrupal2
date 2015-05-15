@@ -7,7 +7,7 @@
 
 ###Description
 
-This is a bookstore website for a fictional bookstore named Bookhaven. Users can contact the bookstore, view book reviews, and those users that have logged in can take advantage of special discounts. This website illustrates my understanding of creating custom content types and views for them in Drupal. It also shows my ability to save these content types as features and export them easily to other Drupal websites. 
+This is a bookstore website for a fictional bookstore named Book Haven. Users can contact the bookstore, view book reviews, and those users that have logged in can take advantage of special discounts. This website illustrates my understanding of creating custom content types and views for them in Drupal. It also shows my ability to save these content types as features and export them easily to other Drupal websites. 
 
 ###Setup Instructions
 
