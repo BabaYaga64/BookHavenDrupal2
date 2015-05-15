@@ -9,6 +9,12 @@
 
 This is a bookstore website for a fictional bookstore named Bookhaven. Users can contact the bookstore, view book reviews, and those users that have logged in can take advantage of special discounts. This website illustrates my understanding of creating custom content types and views for them in Drupal. It also shows my ability to save these content types as features and export them easily to other Drupal websites. 
 
+###Setup Instructions
+
+1. Download a copy of the repository from GitHub.
+2. Launch a MAMP/LAMP/WAMP server and point the server to the root directory (main project folder)
+3. Open browser and navigate to http://localhost:8888/
+
 ###Attn: Diane
 
 Info for Diane:
